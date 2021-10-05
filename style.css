@@ -1,8 +1,11 @@
-h1 {
-    color: green;
+img {
+    max-height: 200px;
+    max-width: 200px;
 }
- responsive{
-     height: 100%;
-     width: auto;
+html {
+    background-color:blueviolet;
+}
+.imagecap {
+    font-style: italic;
+}
 
- }
